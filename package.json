@@ -1,0 +1,25 @@
+{
+  "name": "formal",
+  "version": "0.1.0-beta",
+  "description": "A simple library to add forms in React Native.",
+  "main": "lib/index.js",
+  "directories": {
+    "doc": "doc",
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labsvisual/formal.git"
+  },
+  "author": "Shreyansh Pandey <s@isomr.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/labsvisual/formal/issues"
+  },
+  "homepage": "https://github.com/labsvisual/formal#readme"
+}
